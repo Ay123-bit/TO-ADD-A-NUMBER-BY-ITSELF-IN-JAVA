@@ -1,0 +1,19 @@
+//INPUT
+import java.util.*;
+public class Increamental_Decreamental_Operator{
+  public static void main(String[] args){
+    int a = 10;
+    
+  a += 10;
+    System.out.println(a);
+     
+  }
+}
+//value mot change
+//a++
+//a--
+//value Decreament or increament
+//--a
+//++a
+//OUTPUT
+20
